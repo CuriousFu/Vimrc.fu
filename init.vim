@@ -1,7 +1,6 @@
 " .vimrc
 "
 " Maintained by Claud D. Park <posquit0.bj@gmail.com>
-" http://www.posquit0.com/
 let $VIM_HOME=$HOME.'/.vim'
 
 """ General Configuration
